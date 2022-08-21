@@ -9,3 +9,13 @@
   left: 0;
   position: absolute;
 }
+
+.button {
+  border: none;
+  background-color: rgb(211, 120, 55);
+  color: #fff;
+  font-size: 20px;
+  padding: 0.5rem 2rem;
+  border-radius: 1rem;
+  cursor: pointer;
+}

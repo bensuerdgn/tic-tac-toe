@@ -13,8 +13,6 @@ export function calculateWinner(square) {
     const [a, b, c] = lines[i];
     if (square[a] && square[a] === square[b] && square[a] === square[c]) {
       return square[a];
-    } else {
-      return false;
     }
   }
   return undefined;
