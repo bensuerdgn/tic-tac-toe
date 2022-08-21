@@ -1,3 +1,15 @@
 .square {
-  background-color: brown;
+  background: #fefbe7;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  font-size: 4rem;
+  font-weight: 900;
+}
+
+.x {
+  color: #a0bcc2;
+}
+.o {
+  color: #dae5d0;
 }
